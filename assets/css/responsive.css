@@ -1,0 +1,180 @@
+@media (max-width: 750px) {
+  /* HEADER */
+    .header {
+      padding: 1 1rem;
+    }
+
+    .lista {
+      display: none;
+    }
+
+  /* HOME */
+
+  .hero-content {
+    flex-direction: column-reverse;
+    padding: 3rem 1rem;
+  }
+
+  .home-ilustracao, .ilustracao {
+    width: 16rem;
+    height: 17rem;
+    margin-bottom: -6rem;
+  }
+
+  .hero-informacoes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .hero-informacoes h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    line-height: 2rem;
+    text-align: center;
+  }
+
+  .hero-informacoes p {
+    line-height: 0.9rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  /* CLIENTES */
+
+  .cliente-informacoes h1 {
+    font-size: 2rem;
+    line-height: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .cliente-logo {
+    gap: 4rem;
+    padding: 0 1rem;
+    overflow-x: scroll;
+  }
+
+  /* COMUNIDADE */
+
+  .comunidade {
+    margin-top: 5rem;
+  }
+
+  .comum-informacoes h1 {
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+  }
+
+  .comum-informacoes p {
+    font-size: 0.8rem;
+  }
+  
+  .comum-cards {
+    flex-direction: column;
+    margin-top: 1.2rem;
+  }
+
+  /* INVISIVEL */
+
+  .invi-content {
+  padding: 0 1rem;
+  flex-direction: column;
+  justify-content: center;
+  }
+
+  .invi-informacoes {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .invi-informacoes h1 {
+    font-size: 1.8rem;
+    line-height: 1.65rem;
+  }
+
+  .invi-img img{
+    width: 16rem;
+    height: 17rem;
+  }
+
+  /* CONQUISTAS */
+
+  .conquista-content {
+    flex-direction: column;
+    padding: 0rem 1rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .conquista-info {
+    margin-right: 0;
+  }
+
+  .conquista-info h1 {
+    font-size: 1.55rem;
+    line-height: 1.35rem;
+  }
+
+  .conquista-info p {
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* CALENDARIO */
+
+  .calender-content {
+    flex-direction: column;
+    padding: 0 1rem;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .calender-img img {
+    width: 16rem;
+    height: 17rem;
+  }
+
+  .calender-info h1 {
+    font-size: 1.65rem;
+    line-height: 1.25rem;
+  }
+
+  .calender-info p {
+    font-size: 0.8rem;
+    line-height: 1rem;
+  }
+
+  /* EMPRESAS */
+
+  .empresas {
+    display: none;
+}
+
+/*  FOOTER */
+
+    .footer-container {
+      padding: 4rem 1rem;
+    }
+
+    .footer-content {
+      flex-direction: column;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+    }
+    
+    .footer-bloco2 {
+      flex-direction: column;
+      gap: 2rem;
+    }
+    
+    .logo-footer {
+      justify-content: center;
+    }
+}

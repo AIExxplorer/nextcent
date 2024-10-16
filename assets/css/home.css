@@ -17,7 +17,7 @@
   font-size: 4rem;
   font-weight: 600;
   line-height: 4.75rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .hero-informacoes span {
@@ -108,7 +108,7 @@
 .comum-cards {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 
 .card-item {
@@ -160,8 +160,8 @@
 }
 
 .conquistas {
-  background-color: var(--silver);
   width: 100%;
+  background-color: var(--silver);
   display: flex;
   margin: 3rem 0;
 }
