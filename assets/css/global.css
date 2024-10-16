@@ -1,5 +1,6 @@
 @import url(./header.css);
 @import url(./home.css);
+@import url(./footer.css);
 
 * {
   margin: 0;
@@ -74,4 +75,14 @@ li {
   background: none;
   gap: 0.5rem;
   cursor: pointer;
+}
+
+input {
+  width: 15rem;
+  color: var(--white);
+  border: none;
+  outline: none;
+  background-color: var(--d-grey);
+  border-radius: 0.5rem;
+  padding: 0.8rem 0.5rem;
 }
