@@ -9,7 +9,7 @@ Esse projeto trata-se de um desafio pessoal concluído com êxito. Qual foi o de
 
 ## :man_mechanic: Linguagens e Ferramentas
 
-![Skills](https://skillicons.dev/icons?i=html,css)
+![Skills](https://skillicons.dev/icons?i=html,css,figma)
 
 
 ## :triangular_flag_on_post: Contribua com o projeto
