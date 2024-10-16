@@ -235,3 +235,40 @@
   line-height: 1.25rem;
   margin-bottom: 2rem;
 }
+
+.empresas {
+  margin: 3rem 0;
+}
+
+.empresas-content {
+  display: flex;
+  padding: 2rem 9rem;
+  align-items: center;
+  gap: 4rem;
+}
+
+.empresas-info p {
+  color: var(--grey);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.empresas-info h3 {
+  color: var(--primary);
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.empresas-logo-content {
+  display: flex;
+  align-items: center;
+}
+
+.empresas-logo {
+  display: flex;
+  gap: 1rem;
+}

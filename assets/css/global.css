@@ -63,3 +63,15 @@ li {
   color: var(--primary);
   cursor: pointer;
 }
+
+.btn-right {
+  color: var(--primary);
+  display: flex;
+  padding: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background: none;
+  gap: 0.5rem;
+  cursor: pointer;
+}
