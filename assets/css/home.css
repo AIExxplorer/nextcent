@@ -1,0 +1,146 @@
+.home {
+  width: 100%;
+  min-height: 100vh;
+  align-self: stretch;
+}
+
+.hero-content {
+  display: flex;
+  padding: 6rem 9rem;
+  align-items: center;
+  gap: 6.5rem;
+  background-color: var(--silver);
+}
+
+.hero-informacoes h1 {
+  color: var(--d-grey);
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 4.75rem;
+  margin-bottom: 1rem;
+}
+
+.hero-informacoes span {
+  color: var(--primary);
+}
+
+.hero-informacoes p {
+  color: var(--grey);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.home-ilustracao .ilustracao {
+  width: 24.4375rem;
+  height: 25.4375rem;
+}
+
+.clientes {
+  margin: 2.5rem 0;
+}
+
+.cliente-informacoes h1 {
+  color: var(--d-grey);
+  text-align: center;
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 2.75rem;
+}
+
+.cliente-informacoes p {
+  color: var(--grey);
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.cliente-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 6.125rem;
+}
+
+.comunidade {
+  margin-top: 2rem;
+}
+
+.comum-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.comum-informacoes h1 {
+  color: var(--d-grey);
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 2.75rem;
+}
+
+.comum-informacoes p {
+  color: var(--grey);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.comum-cards {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card-item {
+  width: 18rem;
+  padding: 1.5rem 2rem; 
+  border-radius: 0.5rem;
+  background: var(--silver);
+  box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20);      
+}
+
+.card-item h1 {
+  color: var(--d-grey);
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 2.25rem;
+  text-align: center;
+}
+
+.card-item p {
+  color: var(--grey);
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  text-align: center;
+}
+
+.invi-content {
+  width: 100%;
+  display: flex;
+  padding: 0rem 9rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.invi-informacoes h1 {
+  color: var(--d-grey);
+  font-size: 2.25rem;
+  font-weight: 600;
+  line-height: 2.25rem;
+  margin-bottom: 1rem;
+}
+
+.invi-informacoes p {
+  color: var(--grey);
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-bottom: 2rem;
+}
